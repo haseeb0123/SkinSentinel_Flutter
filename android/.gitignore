@@ -1,0 +1,26 @@
+# Tooling caches
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Heavy build folder (Isi ki wajah se counter barh raha hai)
+build/
+
+# Android specific
+android/local.properties
+android/GeneratedPluginRegistrant.java
+android/.gradle/
+
+# iOS specific
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+
+# IDEs settings
+.idea/
+.vscode/
+*.iml
+*.tflite

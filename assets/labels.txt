@@ -1,0 +1,10 @@
+Atopic_Dermatitis
+BCC
+BKL
+Eczema
+Fungal_Infections
+Melanoma
+NV
+Psoriasis
+Seborrheic_Keratoses
+Viral_Infections
