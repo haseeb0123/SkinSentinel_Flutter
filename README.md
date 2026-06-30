@@ -6,16 +6,16 @@ A Premium AI-powered Mobile Application designed for real-time and offline skin 
 
 ## ✨ Experience the Vibe (Advanced Skin Analysis)
 <p align="center">
-  <img src="1.png" width="100%" alt="SkinSentinel Premium Interface" />
+  <img src="1.png.png" width="100%" alt="SkinSentinel Premium Interface" />
 </p>
 
 ---
 
 ## 🔍 Key App Modules & Features
 <p align="center">
-  <img src="scanner.png" width="32%" alt="AI Scanner Mode" />
-  <img src="history.png" width="32%" alt="User Dashboard & History" />
-  <img src="clinic.png" width="32%" alt="Clinic Locator Map" />
+  <img src="scanner.png.png" width="32%" alt="AI Scanner Mode" />
+  <img src="history.png.png" width="32%" alt="User Dashboard & History" />
+  <img src="clinic.png.png" width="32%" alt="Clinic Locator Map" />
 </p>
 
 ---
