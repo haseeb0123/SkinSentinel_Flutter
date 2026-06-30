@@ -6,7 +6,7 @@ A Premium AI-powered Mobile Application designed for real-time and offline skin 
 
 ## ✨ Experience the Vibe (Advanced Skin Analysis)
 <p align="center">
-  <img src="1.png.png" width="100%" alt="SkinSentinel Premium Interface" />
+  <img src="1.png.png" width="50%" alt="SkinSentinel Premium Interface" />
 </p>
 
 ---
